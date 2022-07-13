@@ -1,7 +1,4 @@
 # startpage-python
-parsing search results from startpage search engine (based on google.com results)
-you can use it if you need get some results without get banned from google
-
 perform websearch via startpage search engine which is powered by google.com results.
 This package should in theory return identical results as you would expect from google search without being caught by google's bot detection algorithms
 
